@@ -3,7 +3,7 @@ using namespace std;
 
 main() {
     int x;
-    cout << "meghrar hoqoq: ";
+    cout << "meqdrar hoqoq: ";
     cin >> x;
     if (x <= 6000000) {
         cout << x - (x/100) * 0;
